@@ -1,0 +1,11 @@
+Le nom commun pour Puissance 4 est simplement :
+
+jeu d'alignement ou jeu de stratégie à alignement.
+
+C’est une catégorie de jeux dans laquelle le but est d’aligner un certain nombre de pièces ou symboles (comme dans le morpion, par exemple). On peut donc dire :
+
+« Puissance 4 est un jeu d’alignement à deux joueurs. »
+
+
+test.py pour mes test de modifications(amelioration)
+main.py est le code de base
